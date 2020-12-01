@@ -42,5 +42,14 @@ class Food{
             getFedTime(lastFed){
                 this.lastFed = lastFed
             }
-
+    bedroom(){
+        
+    }
+    
+    garden(){
+    }
+    
+    washroom(){
+    }
+    
 }
